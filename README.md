@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning : Networks, Systems administration, IoT and Programmation<br>🎯 Goals : Survive <br>🎲 Fun fact : Alexa is always listening to your conversations...</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning : Networks, Systems administration, IoT and Code<br>🎯 Goals : Survive <br>🎲 Fun fact : Alexa is always listening to your conversations...</p>
 
 ###
 
